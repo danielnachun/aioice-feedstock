@@ -1,4 +1,4 @@
-{% set version = "0.10.1" %}
+{% set version = "0.10.2" %}
 
 package:
   name: aioice
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/a/aioice/aioice-{{ version }}.tar.gz
-  sha256: 5c8e1422103448d171925c678fb39795e5fe13d79108bebb00aa75a899c2094a
+  sha256: bf236c6829ee33c8e540535d31cd5a066b531cb56de2be94c46be76d68b1a806
 
 build:
   number: 0
